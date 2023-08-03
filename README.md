@@ -1,6 +1,6 @@
 # <img src="https://i.imgur.com/pu1NYI7.png" width="150" align="center"> Wenkey - Dating App Template Andorid
 
-i have created an amazing slick UI, combined with effortless animations (swipe to like) and top-notch modern, native Java code.
+We have created an amazing slick UI, combined with effortless animations (swipe to like) and top-notch modern, native Java code.
 It’s ready and waiting to customize into your dating app. The clean UI you can see in the app template
 just needs to be hooked into your platform backend (perhaps using Amazon Web Services, Parse Server, or Firebase) to create your
 dating masterpiece.
