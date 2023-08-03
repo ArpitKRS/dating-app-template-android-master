@@ -17,10 +17,6 @@ the app implements MVP architecture
 - okhttp3
 - swipecards
 
-#### #ِApi
-
-- https://demo6483760.mockable.io/profiles/
-
 #### #More
 
 <p align="center">
