@@ -4,6 +4,7 @@ We have created an amazing slick UI, combined with effortless animations (swipe 
 It’s ready and waiting to customize into your dating app. The clean UI you can see in the app template
 just needs to be hooked into your platform backend (perhaps using Amazon Web Services, Parse Server, or Firebase) to create your
 dating masterpiece.
+Team Members:- Abhay, Jagriti, Adeeba, Arihant and Arpit.
 
 #### #Architecture
 
